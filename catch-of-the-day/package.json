@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "autoprefixer-stylus": "0.14.0",
-    "ficha-inversion-component": "file:../../fichainversion-deas-view",
     "firebase": "^4.10.1",
     "prop-types": "^15.6.0",
     "re-base": "3.2.2",
